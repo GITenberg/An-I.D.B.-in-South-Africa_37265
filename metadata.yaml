@@ -1,0 +1,37 @@
+_repo: An-I.D.B.-in-South-Africa_37265
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Hencke, Albert
+    alias: Hencke, Al
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '38735'
+    url: http://www.gutenberg.org/2009/agents/38735
+  - agent_name: Graves, George E.
+    alias: Graves, G. E.
+    gutenberg_agent_id: '38734'
+    url: http://www.gutenberg.org/2009/agents/38734
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sheldon, Louise Vescelius
+    alias: Vescelius-Sheldon, Louise
+    gutenberg_agent_id: '38733'
+    url: http://www.gutenberg.org/2009/agents/38733
+description: ''
+gutenberg_issued: '2011-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- Fiction'
+- !lcc 'PS'
+title: An I.D.B. in South Africa
+url: http://www.gutenberg.org/ebooks/37265
